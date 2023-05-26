@@ -1,7 +1,9 @@
 # BlazorFullStackCrud
 GENERAL INFO
 
+
 Technologies 
+
 Project is created with:
 .net 6
 
